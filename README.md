@@ -50,3 +50,12 @@ Este projeto faz parte de um **desafio proposto pela DIO (Digital Innovation One
  
 - **MySQL** – para criação do banco de dados e execução de queries.
 - **Git & GitHub** – para versionamento e controle do projeto.
+
+-- Diagrama do Projeto 
+<img width="626" height="344" alt="Diagrama Ecommerce " src="https://github.com/user-attachments/assets/d51849bd-5ad0-439a-9b28-b22cef891cff" />
+
+
+
+
+
+
